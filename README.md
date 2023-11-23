@@ -1,5 +1,5 @@
 # João Vitor Batista 👨‍💻
-I am currently a programming student, working outside the technology area and in career transition. Future Data Engineer.    
+I am currently a programming student, working outside the technology area and in career transition. Future Front-end Developer.    
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/joao-vitor-batista-/) [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/sucard/) 
