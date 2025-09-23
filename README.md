@@ -2,7 +2,7 @@
 Graduated in systems analysis and development, I am currently a programming student, working outside the technology area and in career transition.   
 
 ## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/joao-vitor-batista-/) [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/sucard/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joao-vitor-batista-/)
 
 ## Skills
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff)](https://docs.github.com/)  [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=fff)](https://git-scm.com/doc) ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white) 	![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white)
