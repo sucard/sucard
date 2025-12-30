@@ -1,5 +1,5 @@
 # João Vitor Batista 👨‍💻
-Graduated in systems analysis and development, I am currently a programming student, working outside the technology area and in career transition.   
+I hold a degree in Systems Analysis and Development and am currently deepening my programming skills while working outside the technology sector. 
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joao-vitor-batista-/)
