@@ -10,8 +10,3 @@ I hold a degree in Systems Analysis and Development and am currently deepening m
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sucard&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&hide_title=true&text_color=FFF)
-
-
-## My Contributions
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sucard&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/sucard/dio-lab-open-source)
